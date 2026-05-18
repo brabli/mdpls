@@ -49,4 +49,4 @@ The language server also provides commands for interacting with the browser prev
 [vim-markdown-composer]: https://github.com/euclio/vim-markdown-composer
 [rustup]: https://rustup.rs
 [lsp-tools]: https://microsoft.github.io/language-server-protocol/implementors/tools/
-[highlight.js style]: https://highlightjs.org/static/demo/
+[highlight.js style]: https://highlightjs.org/demo/
